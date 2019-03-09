@@ -12,16 +12,16 @@ markdown: kramdown
 #for local
 #highlighter: true
 baseurl: # the subpath of your site, e.g. /blog/
-codeurl: //github.com/zchen9/code/issues
-fragmenturl: /fragment/
+# codeurl: //github.com/zchen9/code/issues
+fragmenturl: http://foreti.me/
 
 # Personal info
 avatar: ./images/zchen9_spring.png
-email: zhao.zchen9@gmail.com
-github: https://github.com/zchen9
-twitter: https://twitter.com/ch1oechao
+email: yanshisangc@@gmail.com
+github: https://github.com/fakeyanss
+twitter: https://twitter.com/fakeYanss
 spotify: https://open.spotify.com/user/lzmwuceujikwobk7ynydgsev1/
-ins: https://www.instagram.com/ch1oechao/
+ins: http://foreti.me/gallery/
 
 # Logo setting
 logocolor: '#000'
