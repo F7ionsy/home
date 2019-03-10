@@ -1,6 +1,6 @@
 # Site settings
-title: 'Nice Shot'  # Your Title
-tagline: 'To find something interesting'  # A brief tagline for your site
+title: 'Yet Another Possibility'  # Your Title
+tagline: '有约如铁'  # A brief tagline for your site
 timezone: 'Asia/Shanghai'
 destination: ./_site
 
@@ -20,7 +20,7 @@ avatar: ./images/zchen9_spring.png
 email: yanshisangc@@gmail.com
 github: https://github.com/fakeyanss
 twitter: https://twitter.com/fakeYanss
-spotify: https://open.spotify.com/user/lzmwuceujikwobk7ynydgsev1/
+# spotify: https://open.spotify.com/user/lzmwuceujikwobk7ynydgsev1/
 ins: http://foreti.me/gallery/
 
 # Logo setting
