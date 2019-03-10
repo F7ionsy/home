@@ -1,6 +1,6 @@
 ## Yet Another Possibility
 
-Don't rush to choose, maybe there are other possibilities.
+Don't rush to choose, maybe there are other way.
 
 ---
 
