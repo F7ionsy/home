@@ -181,7 +181,8 @@ a:visited {
   opacity: 1;
 }
 .logo-container.switch {
-  background-image: url(../../images/fly.JPG);
+  /* background-image: url(../../images/fly.JPG); */
+  background-image: url(https://source.unsplash.com/user/yanss/likes/);
   background-position: center bottom;
 }
 .logo-svg {
