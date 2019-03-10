@@ -11,7 +11,7 @@ markdown: kramdown
 #highlighter: pygments
 #for local
 #highlighter: true
-baseurl: # the subpath of your site, e.g. /blog/
+baseurl: http://foreti.me/home/
 # codeurl: //github.com/zchen9/code/issues
 fragmenturl: http://foreti.me/
 
