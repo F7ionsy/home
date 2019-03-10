@@ -6,16 +6,16 @@ destination: ./_site
 
 # Build settings
 encoding: UTF-8
-markdown: kramdown
+markdown: markdown
 #for publish
 #highlighter: pygments
 #for local
 #highlighter: true
-baseurl: http://foreti.me/home
-# codeurl: //github.com/zchen9/code/issues
-fragmenturl: http://foreti.me/
+url: http://foreti.me/home
 
 # Personal info
+# codeurl: //github.com/zchen9/code/issues
+fragmenturl: http://foreti.me/
 avatar: ./images/zchen9_spring.png
 email: yanshisangc@@gmail.com
 github: https://github.com/fakeyanss
