@@ -11,17 +11,17 @@ markdown: markdown
 #highlighter: pygments
 #for local
 #highlighter: true
-url: http://foreti.me/home
+url: https://foreti.me/home
 
 # Personal info
 # codeurl: //github.com/zchen9/code/issues
-fragmenturl: http://foreti.me/
+fragmenturl: https://foreti.me/
 avatar: ./images/logo.png
 email: yanshisangc@@gmail.com
 github: https://github.com/fakeyanss
 twitter: https://twitter.com/fakeYanss
 # spotify: https://open.spotify.com/user/lzmwuceujikwobk7ynydgsev1/
-ins: http://foreti.me/gallery/
+ins: https://foreti.me/gallery/
 
 # Logo setting
 logocolor: '#000'
