@@ -112,7 +112,7 @@ a:visited {
   box-shadow: 0 0 0 3px #000, 0 0 0 6px #ce2323;
 }
 .info-link {
-  width: (680-180)px;
+  width: 500px;
 }
 .info-icon,
 .info-icon i {
