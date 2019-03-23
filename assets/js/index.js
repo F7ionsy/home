@@ -13,7 +13,7 @@ $(document).ready(function(){
   
 });
 
-<script text="module">
+
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker
       .register("/sw.js")
@@ -25,4 +25,4 @@ $(document).ready(function(){
   } else {
     console.log("Service workers are not supported.");
   }
-</script>
+
