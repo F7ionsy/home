@@ -11,9 +11,6 @@ $(document).ready(function(){
   console.log('© zchen9 🙋 2015-' + (new Date()).getFullYear());
   console.log('特别鸣谢zchen9小仙女的精彩主题，希望大家去逛逛她的github：https://github.com/zchen9');
   
-});
-
-
   if ("serviceWorker" in navigator) {
     navigator.serviceWorker
       .register("/sw.js")
@@ -25,4 +22,5 @@ $(document).ready(function(){
   } else {
     console.log("Service workers are not supported.");
   }
-
+  
+});
