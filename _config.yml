@@ -20,8 +20,10 @@ avatar: ./images/logo.png
 email: yanshisangc@@gmail.com
 github: https://github.com/fakeyanss
 twitter: https://twitter.com/fakeYanss
-# spotify: https://open.spotify.com/user/lzmwuceujikwobk7ynydgsev1/
 ins: https://foreti.me/gallery/
+about: https://foreti.me/about/
+todo: https://github.com/fakeYanss/Todo/issues
+# spotify: https://open.spotify.com/user/lzmwuceujikwobk7ynydgsev1/
 
 # Logo setting
 logocolor: '#000'
