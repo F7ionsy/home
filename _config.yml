@@ -1,6 +1,6 @@
 # Site settings
-title: 'Yet Another Possibility'  # Your Title
-tagline: '有约如铁'  # A brief tagline for your site
+title: 'F7ionsy's'  # Your Title
+tagline: '爱你如斯'  # A brief tagline for your site
 timezone: 'Asia/Shanghai'
 destination: ./_site
 
@@ -11,14 +11,14 @@ markdown: markdown
 #highlighter: pygments
 #for local
 #highlighter: true
-url: https://foreti.me/home
+url: https://lihengdong.com/home
 
 # Personal info
 # codeurl: //github.com/zchen9/code/issues
-fragmenturl: https://foreti.me/
+fragmenturl: https://lihengdong.com/
 avatar: ./images/logo.png
-email: yanshisangc@@gmail.com
-github: https://github.com/fakeyanss
+email: mailto:admin@lihengdong.com
+github: https://github.com/F7ionsy
 twitter: https://twitter.com/fakeYanss
 ins: https://foreti.me/gallery/
 about: https://foreti.me/about/
