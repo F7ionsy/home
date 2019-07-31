@@ -8,8 +8,8 @@ $(document).ready(function(){
   
   $avatar.on('click', switchScreen);
 
-  console.log('© zchen9 🙋 2015-' + (new Date()).getFullYear());
-  console.log('特别鸣谢zchen9小仙女的精彩主题，希望大家去逛逛她的github：https://github.com/zchen9');
+  console.log('© F7ionsy 🙋 2018-' + (new Date()).getFullYear());
+  console.log('萱萱，只是很爱你而已  http://lihengdong.com/xuanxuan');
   
 //   if ("serviceWorker" in navigator) {
 //     navigator.serviceWorker
