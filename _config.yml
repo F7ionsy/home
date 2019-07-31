@@ -1,6 +1,6 @@
 # Site settings
-title: 'F7ionsy's'  # Your Title
-tagline: '爱你如斯'  # A brief tagline for your site
+title: 'F7ionsy's'  
+tagline: '爱你如斯'  
 timezone: 'Asia/Shanghai'
 destination: ./_site
 
